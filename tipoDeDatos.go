@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main4() {
 
 	fmt.Println("Hello, World!") //String
 	fmt.Println(24)              //int
